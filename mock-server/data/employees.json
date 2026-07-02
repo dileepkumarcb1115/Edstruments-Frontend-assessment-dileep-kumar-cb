@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@company.com",
+    "department": "Engineering",
+    "role": "Senior Developer",
+    "salary": 95000,
+    "joinDate": "2021-03-15",
+    "isActive": true,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "GraphQL"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-01-15",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "email": "emily.j@company.com",
+    "department": "Design",
+    "role": "UX Designer",
+    "salary": 82000,
+    "joinDate": "2020-07-01",
+    "isActive": true,
+    "skills": [
+      "Figma",
+      "Sketch",
+      "CSS",
+      "Prototyping"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-02-10",
+    "performanceRating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "email": "m.brown@company.com",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "salary": 78000,
+    "joinDate": "2019-11-20",
+    "isActive": false,
+    "skills": [
+      "SEO",
+      "Analytics",
+      "Content",
+      "Social Media"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-12-01",
+    "performanceRating": 3.9
+  },
+  {
+    "id": 4,
+    "name": "Sarah Davis",
+    "email": "sarah.d@company.com",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "salary": 105000,
+    "joinDate": "2022-01-10",
+    "isActive": true,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-03-05",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "email": "j.wilson@company.com",
+    "department": "HR",
+    "role": "HR Manager",
+    "salary": 72000,
+    "joinDate": "2018-05-15",
+    "isActive": true,
+    "skills": [
+      "Recruitment",
+      "Training",
+      "Compliance",
+      "HRMS"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-01-20",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "Linda Martinez",
+    "email": "l.martinez@company.com",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "salary": 88000,
+    "joinDate": "2020-09-01",
+    "isActive": true,
+    "skills": [
+      "Excel",
+      "SAP",
+      "Financial Modeling",
+      "Tableau"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-28",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Robert Taylor",
+    "email": "r.taylor@company.com",
+    "department": "Engineering",
+    "role": "DevOps Engineer",
+    "salary": 112000,
+    "joinDate": "2021-06-20",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2024-03-10",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Patricia Anderson",
+    "email": "p.anderson@company.com",
+    "department": "Design",
+    "role": "Graphic Designer",
+    "salary": 68000,
+    "joinDate": "2019-03-25",
+    "isActive": false,
+    "skills": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "Figma"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2023-11-15",
+    "performanceRating": 3.7
+  },
+  {
+    "id": 9,
+    "name": "Charles Thomas",
+    "email": "c.thomas@company.com",
+    "department": "Sales",
+    "role": "Sales Executive",
+    "salary": 65000,
+    "joinDate": "2022-04-01",
+    "isActive": true,
+    "skills": [
+      "CRM",
+      "Negotiation",
+      "Lead Generation",
+      "Salesforce"
+    ],
+    "address": {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-01-30",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 10,
+    "name": "Barbara Jackson",
+    "email": "b.jackson@company.com",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "salary": 78000,
+    "joinDate": "2020-12-01",
+    "isActive": true,
+    "skills": [
+      "Selenium",
+      "Jest",
+      "Cypress",
+      "Manual Testing"
+    ],
+    "address": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-02-20",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 11,
+    "name": "David White",
+    "email": "d.white@company.com",
+    "department": "Engineering",
+    "role": "Frontend Developer",
+    "salary": 92000,
+    "joinDate": "2021-08-15",
+    "isActive": true,
+    "skills": [
+      "React",
+      "Vue",
+      "CSS",
+      "JavaScript"
+    ],
+    "address": {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-03-01",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Jennifer Harris",
+    "email": "j.harris@company.com",
+    "department": "Marketing",
+    "role": "Content Writer",
+    "salary": 58000,
+    "joinDate": "2023-02-01",
+    "isActive": true,
+    "skills": [
+      "Copywriting",
+      "SEO",
+      "WordPress",
+      "Social Media"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-01-10",
+    "performanceRating": 4
+  },
+  {
+    "id": 13,
+    "name": "Richard Lewis",
+    "email": "r.lewis@company.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "salary": 72000,
+    "joinDate": "2019-07-10",
+    "isActive": true,
+    "skills": [
+      "QuickBooks",
+      "Excel",
+      "Tax",
+      "Auditing"
+    ],
+    "address": {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-02-05",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 14,
+    "name": "Susan Lee",
+    "email": "s.lee@company.com",
+    "department": "HR",
+    "role": "HR Recruiter",
+    "salary": 62000,
+    "joinDate": "2022-06-15",
+    "isActive": true,
+    "skills": [
+      "LinkedIn",
+      "ATS",
+      "Interviewing",
+      "Onboarding"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-01-25",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "Joseph Walker",
+    "email": "j.walker@company.com",
+    "department": "Sales",
+    "role": "Sales Manager",
+    "salary": 95000,
+    "joinDate": "2018-03-01",
+    "isActive": true,
+    "skills": [
+      "B2B Sales",
+      "CRM",
+      "Team Leadership",
+      "Forecasting"
+    ],
+    "address": {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-03-15",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 16,
+    "name": "Thomas Hall",
+    "email": "t.hall@company.com",
+    "department": "Engineering",
+    "role": "Data Scientist",
+    "salary": 118000,
+    "joinDate": "2021-01-20",
+    "isActive": true,
+    "skills": [
+      "Python",
+      "ML",
+      "TensorFlow",
+      "SQL"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-15",
+    "performanceRating": 4.8
+  },
+  {
+    "id": 17,
+    "name": "Karen Young",
+    "email": "k.young@company.com",
+    "department": "Design",
+    "role": "Product Designer",
+    "salary": 95000,
+    "joinDate": "2020-04-10",
+    "isActive": true,
+    "skills": [
+      "Figma",
+      "User Research",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-01-05",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 18,
+    "name": "Mark Allen",
+    "email": "m.allen@company.com",
+    "department": "Marketing",
+    "role": "Digital Marketer",
+    "salary": 68000,
+    "joinDate": "2021-10-01",
+    "isActive": false,
+    "skills": [
+      "Google Ads",
+      "Facebook Ads",
+      "Analytics",
+      "Email Marketing"
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-10-20",
+    "performanceRating": 3.8
+  },
+  {
+    "id": 19,
+    "name": "Nancy King",
+    "email": "n.king@company.com",
+    "department": "Finance",
+    "role": "CFO",
+    "salary": 185000,
+    "joinDate": "2016-01-15",
+    "isActive": true,
+    "skills": [
+      "Financial Strategy",
+      "M&A",
+      "Risk Management",
+      "Investor Relations"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2024-03-20",
+    "performanceRating": 4.9
+  },
+  {
+    "id": 20,
+    "name": "Paul Wright",
+    "email": "p.wright@company.com",
+    "department": "Engineering",
+    "role": "Mobile Developer",
+    "salary": 98000,
+    "joinDate": "2022-03-15",
+    "isActive": true,
+    "skills": [
+      "React Native",
+      "Swift",
+      "Kotlin",
+      "Flutter"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-25",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 21,
+    "name": "Betty Scott",
+    "email": "b.scott@company.com",
+    "department": "HR",
+    "role": "Training Specialist",
+    "salary": 65000,
+    "joinDate": "2020-08-20",
+    "isActive": true,
+    "skills": [
+      "LMS",
+      "Curriculum Design",
+      "Facilitation",
+      "E-learning"
+    ],
+    "address": {
+      "city": "Columbus",
+      "state": "OH",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-01-15",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 22,
+    "name": "George Green",
+    "email": "g.green@company.com",
+    "department": "Sales",
+    "role": "Account Manager",
+    "salary": 72000,
+    "joinDate": "2021-05-01",
+    "isActive": true,
+    "skills": [
+      "Account Management",
+      "Upselling",
+      "CRM",
+      "Negotiation"
+    ],
+    "address": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-10",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 23,
+    "name": "Dorothy Baker",
+    "email": "d.baker@company.com",
+    "department": "Engineering",
+    "role": "Cloud Architect",
+    "salary": 145000,
+    "joinDate": "2019-09-01",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-03-08",
+    "performanceRating": 4.9
+  },
+  {
+    "id": 24,
+    "name": "Kenneth Adams",
+    "email": "k.adams@company.com",
+    "department": "Marketing",
+    "role": "Brand Manager",
+    "salary": 88000,
+    "joinDate": "2018-11-15",
+    "isActive": true,
+    "skills": [
+      "Brand Strategy",
+      "Market Research",
+      "Campaign Management",
+      "Analytics"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-01-28",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 25,
+    "name": "Sandra Nelson",
+    "email": "s.nelson@company.com",
+    "department": "Finance",
+    "role": "Budget Analyst",
+    "salary": 76000,
+    "joinDate": "2021-02-28",
+    "isActive": true,
+    "skills": [
+      "Budgeting",
+      "Forecasting",
+      "Excel",
+      "Power BI"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-02-18",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 26,
+    "name": "Steven Carter",
+    "email": "s.carter@company.com",
+    "department": "Engineering",
+    "role": "Security Engineer",
+    "salary": 125000,
+    "joinDate": "2020-06-15",
+    "isActive": true,
+    "skills": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "SIEM",
+      "Zero Trust"
+    ],
+    "address": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-03-12",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 27,
+    "name": "Donna Mitchell",
+    "email": "d.mitchell@company.com",
+    "department": "Design",
+    "role": "UI Developer",
+    "salary": 85000,
+    "joinDate": "2022-07-01",
+    "isActive": true,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Accessibility"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-01-22",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 28,
+    "name": "Edward Perez",
+    "email": "e.perez@company.com",
+    "department": "Sales",
+    "role": "Business Developer",
+    "salary": 82000,
+    "joinDate": "2019-04-20",
+    "isActive": false,
+    "skills": [
+      "Partnership",
+      "B2B",
+      "Market Expansion",
+      "CRM"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2023-09-15",
+    "performanceRating": 3.6
+  },
+  {
+    "id": 29,
+    "name": "Carol Roberts",
+    "email": "c.roberts@company.com",
+    "department": "HR",
+    "role": "Compensation Analyst",
+    "salary": 78000,
+    "joinDate": "2020-11-10",
+    "isActive": true,
+    "skills": [
+      "Compensation",
+      "Benefits",
+      "HRIS",
+      "Analytics"
+    ],
+    "address": {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-02-08",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 30,
+    "name": "Brian Turner",
+    "email": "b.turner@company.com",
+    "department": "Engineering",
+    "role": "Full Stack Developer",
+    "salary": 108000,
+    "joinDate": "2021-04-05",
+    "isActive": true,
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Docker"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-03-18",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 31,
+    "name": "Helen Phillips",
+    "email": "h.phillips@company.com",
+    "department": "Marketing",
+    "role": "PR Specialist",
+    "salary": 65000,
+    "joinDate": "2022-09-01",
+    "isActive": true,
+    "skills": [
+      "PR",
+      "Media Relations",
+      "Crisis Management",
+      "Writing"
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-01-18",
+    "performanceRating": 4
+  },
+  {
+    "id": 32,
+    "name": "Anthony Campbell",
+    "email": "a.campbell@company.com",
+    "department": "Finance",
+    "role": "Investment Analyst",
+    "salary": 95000,
+    "joinDate": "2020-02-15",
+    "isActive": true,
+    "skills": [
+      "Bloomberg",
+      "Valuation",
+      "Excel",
+      "Python"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-22",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 33,
+    "name": "Deborah Parker",
+    "email": "d.parker@company.com",
+    "department": "Engineering",
+    "role": "AI Engineer",
+    "salary": 135000,
+    "joinDate": "2022-11-01",
+    "isActive": true,
+    "skills": [
+      "PyTorch",
+      "LLMs",
+      "RAG",
+      "Python"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-03-05",
+    "performanceRating": 4.8
+  },
+  {
+    "id": 34,
+    "name": "Kevin Evans",
+    "email": "k.evans@company.com",
+    "department": "Sales",
+    "role": "Inside Sales Rep",
+    "salary": 55000,
+    "joinDate": "2023-01-15",
+    "isActive": true,
+    "skills": [
+      "Cold Calling",
+      "Email Outreach",
+      "CRM",
+      "Demo"
+    ],
+    "address": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-01-08",
+    "performanceRating": 3.9
+  },
+  {
+    "id": 35,
+    "name": "Ruth Edwards",
+    "email": "r.edwards@company.com",
+    "department": "HR",
+    "role": "HRBP",
+    "salary": 88000,
+    "joinDate": "2018-08-20",
+    "isActive": true,
+    "skills": [
+      "HR Strategy",
+      "Employee Relations",
+      "Change Management",
+      "OD"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-12",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 36,
+    "name": "Gary Collins",
+    "email": "g.collins@company.com",
+    "department": "Engineering",
+    "role": "Blockchain Developer",
+    "salary": 128000,
+    "joinDate": "2021-07-15",
+    "isActive": true,
+    "skills": [
+      "Solidity",
+      "Web3.js",
+      "Ethereum",
+      "Smart Contracts"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-03-02",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 37,
+    "name": "Sharon Stewart",
+    "email": "s.stewart@company.com",
+    "department": "Design",
+    "role": "Motion Designer",
+    "salary": 75000,
+    "joinDate": "2021-09-10",
+    "isActive": true,
+    "skills": [
+      "After Effects",
+      "Lottie",
+      "Cinema 4D",
+      "Animation"
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-01-30",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 38,
+    "name": "Larry Sanchez",
+    "email": "l.sanchez@company.com",
+    "department": "Finance",
+    "role": "Tax Specialist",
+    "salary": 82000,
+    "joinDate": "2019-06-01",
+    "isActive": false,
+    "skills": [
+      "Tax Law",
+      "GST",
+      "Compliance",
+      "Excel"
+    ],
+    "address": {
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-08-10",
+    "performanceRating": 3.8
+  },
+  {
+    "id": 39,
+    "name": "Carolyn Morris",
+    "email": "c.morris@company.com",
+    "department": "Marketing",
+    "role": "Growth Hacker",
+    "salary": 78000,
+    "joinDate": "2022-05-20",
+    "isActive": true,
+    "skills": [
+      "A/B Testing",
+      "Analytics",
+      "Funnels",
+      "Growth Loops"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-02-05",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 40,
+    "name": "Arthur Rogers",
+    "email": "a.rogers@company.com",
+    "department": "Engineering",
+    "role": "Platform Engineer",
+    "salary": 118000,
+    "joinDate": "2020-10-15",
+    "isActive": true,
+    "skills": [
+      "Kubernetes",
+      "Helm",
+      "Prometheus",
+      "Grafana"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-03-08",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 41,
+    "name": "Virginia Reed",
+    "email": "v.reed@company.com",
+    "department": "Sales",
+    "role": "Enterprise Sales",
+    "salary": 115000,
+    "joinDate": "2019-02-10",
+    "isActive": true,
+    "skills": [
+      "Enterprise Sales",
+      "RFP",
+      "Contract Negotiation",
+      "Salesforce"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-02-28",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 42,
+    "name": "Raymond Cook",
+    "email": "r.cook@company.com",
+    "department": "HR",
+    "role": "Payroll Specialist",
+    "salary": 58000,
+    "joinDate": "2021-12-01",
+    "isActive": true,
+    "skills": [
+      "Payroll",
+      "ADP",
+      "Compliance",
+      "Excel"
+    ],
+    "address": {
+      "city": "Columbus",
+      "state": "OH",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-01-12",
+    "performanceRating": 4
+  },
+  {
+    "id": 43,
+    "name": "Mildred Morgan",
+    "email": "m.morgan@company.com",
+    "department": "Engineering",
+    "role": "Technical Writer",
+    "salary": 68000,
+    "joinDate": "2020-03-20",
+    "isActive": true,
+    "skills": [
+      "Documentation",
+      "API Docs",
+      "Markdown",
+      "Confluence"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-02-15",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 44,
+    "name": "Ernest Bell",
+    "email": "e.bell@company.com",
+    "department": "Finance",
+    "role": "Risk Analyst",
+    "salary": 88000,
+    "joinDate": "2021-05-25",
+    "isActive": true,
+    "skills": [
+      "Risk Modeling",
+      "VaR",
+      "Basel",
+      "Python"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-03-01",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 45,
+    "name": "Clarence Murphy",
+    "email": "c.murphy@company.com",
+    "department": "Marketing",
+    "role": "Video Producer",
+    "salary": 72000,
+    "joinDate": "2022-02-15",
+    "isActive": true,
+    "skills": [
+      "Premiere Pro",
+      "YouTube",
+      "Storytelling",
+      "Final Cut"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-01-20",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 46,
+    "name": "Evelyn Bailey",
+    "email": "e.bailey@company.com",
+    "department": "Engineering",
+    "role": "Database Admin",
+    "salary": 95000,
+    "joinDate": "2019-10-05",
+    "isActive": true,
+    "skills": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-02-20",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 47,
+    "name": "Howard Rivera",
+    "email": "h.rivera@company.com",
+    "department": "Design",
+    "role": "3D Artist",
+    "salary": 78000,
+    "joinDate": "2022-08-10",
+    "isActive": true,
+    "skills": [
+      "Blender",
+      "Maya",
+      "ZBrush",
+      "Substance"
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-01-28",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 48,
+    "name": "Frances Cooper",
+    "email": "f.cooper@company.com",
+    "department": "Sales",
+    "role": "Customer Success",
+    "salary": 68000,
+    "joinDate": "2021-11-01",
+    "isActive": true,
+    "skills": [
+      "Customer Success",
+      "Onboarding",
+      "Churn Prevention",
+      "CRM"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-02-08",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 49,
+    "name": "Wayne Richardson",
+    "email": "w.richardson@company.com",
+    "department": "Engineering",
+    "role": "Embedded Engineer",
+    "salary": 105000,
+    "joinDate": "2020-05-10",
+    "isActive": false,
+    "skills": [
+      "C++",
+      "RTOS",
+      "ARM",
+      "Firmware"
+    ],
+    "address": {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2023-07-15",
+    "performanceRating": 3.9
+  },
+  {
+    "id": 50,
+    "name": "Lois Cox",
+    "email": "l.cox@company.com",
+    "department": "HR",
+    "role": "HR Director",
+    "salary": 135000,
+    "joinDate": "2017-06-01",
+    "isActive": true,
+    "skills": [
+      "HR Leadership",
+      "Culture",
+      "DEI",
+      "Talent Strategy"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2024-03-18",
+    "performanceRating": 4.8
+  }
+]
